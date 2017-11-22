@@ -35,7 +35,7 @@ namespace TDDCursusLibrary
                     else
                         even +=int.Parse(waarde[i].ToString())*3;
                 }
-                if (10 - (((oneven +even) % 10)) != int.Parse (waarde[waarde.Length-1].ToString()))
+                if (10 - (((oneven + even) % 10)) != value % 10)
                     throw new ArgumentException();
                 isbnWaarde = value;
             }

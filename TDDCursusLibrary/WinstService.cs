@@ -14,8 +14,14 @@ namespace TDDCursusLibrary
         {
             this.opbrengstDAO = opbrengstdao;
             this.kostDAO = kostdao;
-            winst = opbrengstDAO.TotaleOpbrengst() - kostDAO.TotaleKost();
+            
         }
-        public decimal winst { get; }
+        public decimal winst
+        {
+            get
+            {
+                return opbrengstDAO.TotaleOpbrengst() - kostDAO.TotaleKost();
+            }
+        }
     }
 }
