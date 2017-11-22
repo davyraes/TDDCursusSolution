@@ -1,0 +1,13 @@
+C:\Data\TDDCursusSolution\TDDCursusLibraryTest\obj\Debug\TDDCursusLibraryTest.csprojResolveAssemblyReference.cache
+C:\Data\TDDCursusSolution\TDDCursusLibraryTest\bin\Debug\TDDCursusLibraryTest.dll
+C:\Data\TDDCursusSolution\TDDCursusLibraryTest\bin\Debug\TDDCursusLibraryTest.pdb
+C:\Data\TDDCursusSolution\TDDCursusLibraryTest\bin\Debug\TDDCursusLibrary.dll
+C:\Data\TDDCursusSolution\TDDCursusLibraryTest\bin\Debug\TDDCursusLibrary.pdb
+C:\Data\TDDCursusSolution\TDDCursusLibraryTest\obj\Debug\TDDCursusLibraryTest.dll
+C:\Data\TDDCursusSolution\TDDCursusLibraryTest\obj\Debug\TDDCursusLibraryTest.pdb
+C:\Data\TDDCursusSolution\TDDCursusLibraryTest\bin\Debug\Rekening(Nummer).orderedtest
+C:\Data\TDDCursusSolution\TDDCursusLibraryTest\bin\Debug\Castle.Core.dll
+C:\Data\TDDCursusSolution\TDDCursusLibraryTest\bin\Debug\Moq.dll
+C:\Data\TDDCursusSolution\TDDCursusLibraryTest\bin\Debug\Castle.Core.xml
+C:\Data\TDDCursusSolution\TDDCursusLibraryTest\bin\Debug\Moq.pdb
+C:\Data\TDDCursusSolution\TDDCursusLibraryTest\bin\Debug\Moq.xml

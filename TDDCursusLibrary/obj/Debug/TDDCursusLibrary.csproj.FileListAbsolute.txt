@@ -1,0 +1,5 @@
+C:\Data\TDDCursusSolution\TDDCursusLibrary\bin\Debug\TDDCursusLibrary.dll
+C:\Data\TDDCursusSolution\TDDCursusLibrary\bin\Debug\TDDCursusLibrary.pdb
+C:\Data\TDDCursusSolution\TDDCursusLibrary\obj\Debug\TDDCursusLibrary.csprojResolveAssemblyReference.cache
+C:\Data\TDDCursusSolution\TDDCursusLibrary\obj\Debug\TDDCursusLibrary.dll
+C:\Data\TDDCursusSolution\TDDCursusLibrary\obj\Debug\TDDCursusLibrary.pdb
