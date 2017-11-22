@@ -8,3 +8,5 @@ C:\Data\TDDCursusSolution\TDDCursusSolution\TDDCursusLibrary\bin\Debug\TDDCursus
 C:\Data\TDDCursusSolution\TDDCursusSolution\TDDCursusLibrary\obj\Debug\TDDCursusLibrary.csprojResolveAssemblyReference.cache
 C:\Data\TDDCursusSolution\TDDCursusSolution\TDDCursusLibrary\obj\Debug\TDDCursusLibrary.dll
 C:\Data\TDDCursusSolution\TDDCursusSolution\TDDCursusLibrary\obj\Debug\TDDCursusLibrary.pdb
+C:\Data\TDDCursusSolution\TDDCursusSolution\TDDCursusLibrary\bin\Debug\TDDCursusLibrary.dll.CodeAnalysisLog.xml
+C:\Data\TDDCursusSolution\TDDCursusSolution\TDDCursusLibrary\bin\Debug\TDDCursusLibrary.dll.lastcodeanalysissucceeded
