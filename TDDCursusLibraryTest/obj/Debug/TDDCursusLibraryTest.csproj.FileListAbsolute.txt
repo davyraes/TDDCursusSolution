@@ -24,5 +24,3 @@ C:\Data\TDDCursusSolution\TDDCursusSolution\TDDCursusLibraryTest\bin\Debug\Moq.x
 C:\Data\TDDCursusSolution\TDDCursusSolution\TDDCursusLibraryTest\obj\Debug\TDDCursusLibraryTest.csprojResolveAssemblyReference.cache
 C:\Data\TDDCursusSolution\TDDCursusSolution\TDDCursusLibraryTest\obj\Debug\TDDCursusLibraryTest.dll
 C:\Data\TDDCursusSolution\TDDCursusSolution\TDDCursusLibraryTest\obj\Debug\TDDCursusLibraryTest.pdb
-C:\Data\TDDCursusSolution\TDDCursusSolution\TDDCursusLibraryTest\bin\Debug\TDDCursusLibraryTest.dll.CodeAnalysisLog.xml
-C:\Data\TDDCursusSolution\TDDCursusSolution\TDDCursusLibraryTest\bin\Debug\TDDCursusLibraryTest.dll.lastcodeanalysissucceeded
